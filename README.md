@@ -27,4 +27,15 @@ As classes de detecção foram generalizadas para focar no comportamento de segu
 1. `DATA_STORE`: Componentes que guardam dados (Ex: S3, RDS, ECR). *Foco STRIDE: Tampering & Information Disclosure.*
 2. `SERVER`: Componentes de processamento (Ex: EC2, Lambda, API Gateway). *Foco STRIDE: DoS & Elevation of Privilege.*
 3. `SECURITY_GATE`: Controles de acesso (Ex: WAF, Cognito). *Foco STRIDE: Tampering.*
-4. `USER`: Ent
+4. `USER`: Entidades clientes (Ex: Mobile, Web App). *Foco STRIDE: Spoofing.*
+
+*O dataset foi construído e enriquecido com técnicas de Data Augmentation (Mosaic, Rotation, Blur) via Roboflow para melhorar a resiliência do modelo contra diferentes estilos de diagramas.*
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Python 3.10+**
+- **YOLOv8 (Ultralytics):** Treinamento e inferência do modelo de detecção de objetos.
+- **Streamlit:** Construção do painel web interativo.
+- **OpenCV & Pillow (PIL):** Processamento e manipulação de imagens.
+- **Roboflow:** Anotação do dataset e Data Augmentation.
