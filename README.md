@@ -2,7 +2,7 @@
 
 > **Automatizando a Modelagem de Ameaças em Arquiteturas de Nuvem usando Visão Computacional.**
 
-!https://github.com/rodrigorhoads/TechChallangeFase5/blob/main/tela%20do%20techchallenge.png 
+![Tela do Projeto](https://github.com/rodrigorhoads/TechChallangeFase5/blob/main/tela%20do%20techchallenge.png)
 
 ---
 
