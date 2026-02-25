@@ -2,8 +2,7 @@
 
 > **Automatizando a Modelagem de Ameaças em Arquiteturas de Nuvem usando Visão Computacional.**
 
-![Screenshot da Interface do Projeto](caminho_para_uma_foto_da_sua_tela.png) 
-*(Dica: Tire um print da sua tela do Streamlit funcionando e coloque a imagem na pasta do projeto substituindo o link acima)*
+!https://github.com/rodrigorhoads/TechChallangeFase5/blob/main/tela%20do%20techchallenge.png 
 
 ---
 
