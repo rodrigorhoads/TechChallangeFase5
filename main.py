@@ -56,7 +56,7 @@ STRIDE_DB = {
 # ==========================================
 # 2. CONFIGURAÇÃO DA PÁGINA E MODELO
 # ==========================================
-st.set_page_config(page_title="Threat IA", page_icon="🛡️", layout="centered")
+st.set_page_config(page_title="Detector de Ameaças IA", page_icon="🛡️", layout="centered")
 
 
 # O cache evita que o modelo seja recarregado toda vez que você clica num botão
@@ -74,7 +74,7 @@ except Exception as e:
 # ==========================================
 # 3. INTERFACE VISUAL
 # ==========================================
-st.title("🛡️ FIAP Threat Modeler IA")
+st.title("Detector de Ameaças")
 st.markdown("Faça o upload de um diagrama de arquitetura para análise automática baseada na metodologia STRIDE.")
 
 # Controle de Confiança (Slider)
