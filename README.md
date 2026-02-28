@@ -1,4 +1,4 @@
-# 🛡️ FIAP Threat Modeler IA
+# 🛡️ Detector de Ameaças
 
 > **Automatizando a Modelagem de Ameaças em Arquiteturas de Nuvem usando Visão Computacional.**
 
@@ -10,7 +10,7 @@
 A modelagem de ameaças (Threat Modeling) é uma etapa crucial de segurança em projetos Cloud, mas geralmente é um processo manual, demorado e que exige especialistas. Em metodologias ágeis, a documentação de segurança muitas vezes não acompanha a velocidade das mudanças na arquitetura.
 
 ## 🚀 A Solução
-O **FIAP Threat Modeler IA** é uma prova de conceito (MVP) que utiliza Visão Computacional para ler diagramas de arquitetura (AWS, Azure, GCP), identificar componentes-chave e gerar automaticamente um relatório de vulnerabilidades e contramedidas baseado na metodologia **STRIDE**.
+O **Detector de Ameaças** é uma prova de conceito (MVP) que utiliza Visão Computacional para ler diagramas de arquitetura (AWS, Azure, GCP), identificar componentes-chave e gerar automaticamente um relatório de vulnerabilidades e contramedidas baseado na metodologia **STRIDE**.
 
 ### ✨ Principais Funcionalidades
 - **Detecção Automática:** Identifica 4 grandes grupos de componentes em imagens de arquitetura (Bancos de Dados, Servidores, Usuários e Portões de Segurança).
